@@ -1,4 +1,4 @@
-![](images/Picture1)
+![](images/Picture1.jpg)
 
 
 # Ferroptosis occurs through an osmotic mechanism and propagates independently of cell rupture
