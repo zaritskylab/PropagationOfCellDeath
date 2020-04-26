@@ -78,6 +78,6 @@ Containing the following-
 
 Citation 
 --------
-lease cite the following manuscript when using this code: "Ferroptosis occurs through an osmotic mechanism and propagates independently of cell rupture" (link)
+Please cite the following manuscript when using this code: "Ferroptosis occurs through an osmotic mechanism and propagates independently of cell rupture" (link)
 
-Please contact Assaf Zaritsky, assafzar@gmail.com, or Chen Galed chengaled@gmail.com for any questions / suggestions / bug reports.
+Please contact Assaf Zaritsky at assafzar@gmail.com, or Chen Galed at chengaled@gmail.com for any questions / suggestions / bug reports.
