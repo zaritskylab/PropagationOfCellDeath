@@ -1,4 +1,4 @@
-![](images/Picture1.jpg)
+![](images/Picture2.png)
 
 
 # Ferroptosis occurs through an osmotic mechanism and propagates independently of cell rupture
@@ -18,7 +18,7 @@
     
 _____________________________________________________________________________________________________________________________________
 
-*Additional outputs and their descriptions provided [here](https://github.com/assafZaritskyLab/CellDeathPropagation/blob/master/AdditionalOutput.md)*
+*Additional outputs and their descriptions provided [here](https://github.com/assafZaritskyLab/PropagationOfCellDeath/blob/master/AdditionalOutput.md)*
 
 
 Input
@@ -56,7 +56,7 @@ Produces output in the provided directory:
 Test data
 ------------
 
-Download sample data folder via the link: [TestData](https://github.com/assafZaritskyLab/CellDeathPropagation/blob/master/sample_data.zip)
+Download sample data folder via the link: [TestData](https://github.com/assafZaritskyLab/PropagationOfCellDeath/blob/master/sample_data.zip)
 
 The folder includes: 
 ``` datacsv``` folder containing: XTY csv, called ```*experiment_name*.csv```, ```File details.csv``` file containing required parameters set to this data
